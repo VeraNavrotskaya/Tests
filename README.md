@@ -1,2 +1,2 @@
 # Tests
-My tests
+This is my C# tests project
